@@ -13,7 +13,7 @@ import ScrollToTop from "./utils/scrollToTop"
 function App() {
   return (
 		<div className="App">
-			<Router>
+			<Router basename="/projectPortfolioReact">
 				<ScrollToTop />
 				<Navbar />
 				<Routes>
