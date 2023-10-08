@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/projectPortfolioReact/static/css/main.649ddb35.css",
-    "main.js": "/projectPortfolioReact/static/js/main.d795e0eb.js",
+    "main.js": "/projectPortfolioReact/static/js/main.399255b4.js",
     "static/js/787.aeca62f9.chunk.js": "/projectPortfolioReact/static/js/787.aeca62f9.chunk.js",
     "static/media/CVnew.pdf": "/projectPortfolioReact/static/media/CVnew.afb919530cec7a392d25.pdf",
     "static/media/project-03.jpg": "/projectPortfolioReact/static/media/project-03.dee17943354745145fe7.jpg",
@@ -17,14 +17,14 @@
     "static/media/moon.svg": "/projectPortfolioReact/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
     "static/media/gitHub.svg": "/projectPortfolioReact/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
     "static/media/gitHub-black.svg": "/projectPortfolioReact/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
-    "static/media/linkedIn.svg": "/projectPortfolioReact/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "index.html": "/projectPortfolioReact/index.html",
+    "static/media/linkedIn.svg": "/projectPortfolioReact/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "main.649ddb35.css.map": "/projectPortfolioReact/static/css/main.649ddb35.css.map",
-    "main.d795e0eb.js.map": "/projectPortfolioReact/static/js/main.d795e0eb.js.map",
+    "main.399255b4.js.map": "/projectPortfolioReact/static/js/main.399255b4.js.map",
     "787.aeca62f9.chunk.js.map": "/projectPortfolioReact/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.649ddb35.css",
-    "static/js/main.d795e0eb.js"
+    "static/js/main.399255b4.js"
   ]
 }
