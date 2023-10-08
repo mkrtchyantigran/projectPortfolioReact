@@ -42,8 +42,8 @@ const projects = [
 		img: project01,
 		imgBig: project01Big,
 		gitHubLink: 'https://github.com',
-		hrefLink: "https://mkrtchyantigran.github.io/projectReactGPT3/",
-		aLink: <a rel="noreferrer"  href="https://mkrtchyantigran.github.io/projectReactGPT3/" target="_blank" className="btn_project">See all</a>,
+		hrefLink: "https://mkrtchyantigran.github.io/project-react-gpt3/",
+		aLink: <a rel="noreferrer"  href="https://mkrtchyantigran.github.io/project-react-gpt3/" target="_blank" className="btn_project">See all</a>,
 	},
 	{
 		title: 'Dance',
