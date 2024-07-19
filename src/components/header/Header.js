@@ -1,5 +1,5 @@
 import "./style.css";
-import CV from "./Open-CV/CVnew.pdf"
+import CV from "./Open-CV/CV(English).pdf"
 
 const Header = () => {
 
