@@ -15,6 +15,7 @@ const Projects = () => {
 								title3d={project.title3d}
 								img={project.img}
 								img3d={project.img3d}
+								graphicImg={project.MainIMg}
 								index={index}
 							/>
 						);

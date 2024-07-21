@@ -12,8 +12,15 @@ import project3d02 from "./../img/projects/3d modeling/project-03.jpg"
 import project3d03 from "./../img/projects/3d modeling/project-02.jpg"
 import project3d04 from "./../img/projects/3d modeling/project-05.jpg"
 
+import projects_img_banner from "./../img/projects/Graphic Design/project-2000x2000.jpg";
 
-let image3d = [
+import graphic_01 from "./../img/projects/Graphic Design/project-2000x2000.jpg";
+import graphic_02 from "./../img/projects/Graphic Design/project-932x125.jpg";
+import graphic_03 from "./../img/projects/Graphic Design/light.png"
+import graphic_04 from "./../img/projects/Graphic Design/LOGO.png"
+import graphic_05 from "./../img/projects/Graphic Design/Photoshop-Practic.png"
+
+const image3d = [
 	{
 		id: 1,
 		imgSrc: project3d01
@@ -31,6 +38,30 @@ let image3d = [
 		imgSrc: project3d04
 	},
 
+]
+
+const GraphicDesign = [
+	
+	{
+		id: 1,
+		imgSrc:graphic_01
+	},
+	{
+		id: 2,
+		imgSrc:graphic_02
+	},
+	{
+		id: 3,
+		imgSrc:graphic_03
+	},
+	{
+		id: 4,
+		imgSrc:graphic_04
+	},
+	{
+		id: 5,
+		imgSrc:graphic_05
+	}
 ]
 
 
@@ -67,7 +98,23 @@ const projects = [
 				</div>
 			)
 		})
-	}
+	},
+	{
+		title3d: 'Graphic design',
+		skills: 'Adobe Illustrator | Adobe Photoshop | CorelDRAW',
+		img3d: projects_img_banner,
+		img3dBig: GraphicDesign.map((item, index) => {
+			return (
+				<div key={index} className="project_3d_div" >
+					<a href={item.imgSrc} > 
+						<img className="project_3d_img" src={item.imgSrc} alt="3D Modeling"  />
+					</a>
+				</div>
+			)
+		})
+	},
+
+	
 	
 ];
 

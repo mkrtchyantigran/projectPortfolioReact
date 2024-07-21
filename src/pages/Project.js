@@ -26,6 +26,9 @@ const Project = () => {
 					<div>
 						{project.img3dBig}
 					</div>
+					<div>
+						{project.MainIMg}
+					</div>
 					<div className="project-details__desc">
 						<p>Skills: {project.skills}</p>
 					</div>

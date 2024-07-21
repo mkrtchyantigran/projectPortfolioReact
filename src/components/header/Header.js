@@ -1,5 +1,5 @@
 import "./style.css";
-import CV from "./Open-CV/CV(English).pdf"
+import CV from "./Open-CV/CV (English).pdf"
 
 const Header = () => {
 
@@ -11,14 +11,10 @@ const Header = () => {
 			<div className="header__wrapper">
 				<h1 className="header__title">
 					<strong>
-						Hi, my name is <em>Tigran</em>
+				Hello, i'm Tigran
 					</strong>
-					<br />Front-end & 3D modeling 
+					<br />Front-end Development and 3D modeling 
 				</h1>
-				<div className="header__text">
-					<p>improve thinking and understand new things</p>
-				</div>
-				
 				<a rel="noreferrer" href={CV}  target="_blank" className="btn">
 					Open CV
 				</a>

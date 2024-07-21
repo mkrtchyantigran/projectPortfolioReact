@@ -10,7 +10,7 @@ const Home = () => {
 						<li className="content-list__item">
 							<h2 className="title-2">Front-end</h2>
 							<p>
-							JavaScript | React | HTML | CSS | Sass | Git, GitHub
+							JavaScript | React | HTML | CSS | Sass | Gulp | Git, GitHub
 							</p>
 						</li>
 						<li className="content-list__item">
