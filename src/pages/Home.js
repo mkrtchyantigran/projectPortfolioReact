@@ -10,12 +10,12 @@ const Home = () => {
 						<li className="content-list__item">
 							<h2 className="title-2">Front-end</h2>
 							<p>
-							JavaScript | React | HTML | CSS | Sass | Gulp | Git, GitHub
+							JavaScript | React | React Router | HTML | CSS | SCSS | Sass
 							</p>
 						</li>
 						<li className="content-list__item">
-							<h2 className="title-2">3D modeling</h2>
-							<p>Autodesk 3ds Max | Corona | V-Ray </p>
+							<h2 className="title-2">Full-Stack</h2>
+							<p>Node.js | Express | MySQL | bcrypt | Postman </p>
 						</li>
 					</ul>
 				</div>

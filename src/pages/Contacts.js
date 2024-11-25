@@ -19,7 +19,7 @@ const Contacts = () => {
 						<h2 className="title-2">Email</h2>
 						<p>
 							<a href="mailto:tigranmkrtchyan295@gmail.com">
-								tigranmkrtchyan295@gmail.com
+								tigran.mkrtchyan1@outlook.com
 							</a>
 						</p>
 					</li>
