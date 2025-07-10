@@ -3,7 +3,13 @@
 	background-color: var(--project-card-bg);
 	box-shadow: var(--box-shadow);
 	border-radius: 10px;
+	transition-duration: 0.3s;
+	
+	&:hover {
+		box-shadow: 0px 0px 15px #3d3d3d;
+	}
 }
+
 
 .project__img {
 	border-radius: 10px;

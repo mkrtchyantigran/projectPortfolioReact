@@ -17,20 +17,11 @@ const Navbar = () => {
 					<BtnDarkMode />
 
 					<ul className="nav-list">
-						<li className="nav-list__item">
-							<NavLink
-								to="/"
-								className={({ isActive }) =>
-									isActive ? activeLink : normalLink
-								}
-							>
-								Home
-							</NavLink>
-						</li>
+						
 
 						<li className="nav-list__item">
 							<NavLink
-								to="/projects"
+								to="/"
 								className={({ isActive }) =>
 									isActive ? activeLink : normalLink
 								}
