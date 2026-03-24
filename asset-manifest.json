@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/projectPortfolioReact/static/css/main.b6c1a0ae.css",
-    "main.js": "/projectPortfolioReact/static/js/main.fd175b83.js",
+    "main.js": "/projectPortfolioReact/static/js/main.2187f628.js",
     "static/js/787.aeca62f9.chunk.js": "/projectPortfolioReact/static/js/787.aeca62f9.chunk.js",
     "static/media/light.png": "/projectPortfolioReact/static/media/light.1c6246f3c1ff0f9cb328.png",
     "static/media/Photoshop-Practic.png": "/projectPortfolioReact/static/media/Photoshop-Practic.8f8428721d286ec8eec3.png",
@@ -20,18 +20,18 @@
     "static/media/04.jpg": "/projectPortfolioReact/static/media/04.e15976e7c58094226cdb.jpg",
     "static/media/03-big.jpg": "/projectPortfolioReact/static/media/03-big.9708d67ad9264b390860.jpg",
     "static/media/03.jpg": "/projectPortfolioReact/static/media/03.9708d67ad9264b390860.jpg",
-    "static/media/sun.svg": "/projectPortfolioReact/static/media/sun.f8606845ee97bee21c3bc95b2dec3866.svg",
-    "static/media/moon.svg": "/projectPortfolioReact/static/media/moon.312bed9230c94183d589bcc499993093.svg",
-    "static/media/gitHub.svg": "/projectPortfolioReact/static/media/gitHub.a5541850a2a6843f34467a91657cc39d.svg",
-    "static/media/gitHub-black.svg": "/projectPortfolioReact/static/media/gitHub-black.879a08487a26f06ac21248a96c866696.svg",
+    "static/media/sun.svg": "/projectPortfolioReact/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
+    "static/media/moon.svg": "/projectPortfolioReact/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
+    "static/media/gitHub.svg": "/projectPortfolioReact/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/gitHub-black.svg": "/projectPortfolioReact/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
     "index.html": "/projectPortfolioReact/index.html",
-    "static/media/linkedIn.svg": "/projectPortfolioReact/static/media/linkedIn.55523f62797ddb51e960322dd47e5636.svg",
+    "static/media/linkedIn.svg": "/projectPortfolioReact/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "main.b6c1a0ae.css.map": "/projectPortfolioReact/static/css/main.b6c1a0ae.css.map",
-    "main.fd175b83.js.map": "/projectPortfolioReact/static/js/main.fd175b83.js.map",
+    "main.2187f628.js.map": "/projectPortfolioReact/static/js/main.2187f628.js.map",
     "787.aeca62f9.chunk.js.map": "/projectPortfolioReact/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6c1a0ae.css",
-    "static/js/main.fd175b83.js"
+    "static/js/main.2187f628.js"
   ]
 }
