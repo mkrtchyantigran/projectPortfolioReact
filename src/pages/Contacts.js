@@ -18,7 +18,7 @@ const Contacts = () => {
 					<li className="content-list__item">
 						<h2 className="title-2">Email</h2>
 						<p>
-							<a href="mailto:tigranmkrtchyan295@gmail.com">
+							<a href="mailto:tigran.m.1@outlook.com">
 								tigran.m.1@outlook.com
 							</a>
 						</p>
